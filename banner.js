@@ -85,7 +85,7 @@ const locCountryAxis = async () => {
 		let title_dom = ``;
 		let url_img_banner = banner[0][1];
 		let urlOpenClick = banner[0][0];
-		let urlOpenClick2 = "https://readydolphinpoverty.com/uijctn538c?key=4f219c1087bce980ac7a203a864c9d2b";
+		let urlOpenClick2 = "https://www.highcpmrevenuenetwork.com/nzsxk96sg?key=43f723fa5dfb609e800d1dffcdac9c9c";
 		await initBannerJs("https://gas.cenol.my.id/sweetalert2.min.js");
 		await initBannerCss("https://gas.cenol.my.id/sweetalert2.min.css?hash=" + randomNumberHash(12));
 
